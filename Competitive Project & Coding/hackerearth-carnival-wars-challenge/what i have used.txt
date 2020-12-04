@@ -1,0 +1,5 @@
+hackerearth-carnival-wars-challenge:
+    
+    In this i just have evaluated on the base of simple regression method.
+    i have used numpy , pandas ,matplotlib, and seaborn to analyse the data  and exploring the data. 
+    and used sklearn.
